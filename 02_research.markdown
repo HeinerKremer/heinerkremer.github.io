@@ -176,7 +176,7 @@ Please refer to the <a href="https://www.medrxiv.org/content/10.1101/2021.01.21.
 
 <br/>
  <h2> Computer Generated Holography </h2>
-Holography describes the phenomenon of plane waves forming complicated structures by modulation of their phases.
+Holography describes the process of forming complicated structures from plane waves by modulation of their phases.
 Computer generated holography is concerned with the computation of the required phase modulation in order to produce a desired target intensity pattern. In the optical case the phase modulation can be achieved with a spatial light modulator (SLM). In our case, we are interested in forming ultrasound fields to manipulate particles, which can be described as <a href="https://www.nature.com/articles/nature19755"><i>acoustic holography</i></a>. In this case the phase modulation can be achieved by sending plane waves through 3D-printed plastic plates with spatially varying thickness, such that spatially-dependent phase delays are induced as the wave takes different times to pass at different locations within the plate.
 
 <p align="center">
