@@ -4,3 +4,21 @@
 
 layout: home
 ---
+
+
+
+<img src="assets/image_website.jpg" width="350" style="float: left; margin-right: 2em;">
+
+
+Hi I'm Heiner, welcome to my scientific website!
+
+I am a PhD student working on Machine Learning and Artificial Intelligence at the Empirical Inference Department of the [Max Planck Institute for Intelligent Systems](https://ei.is.mpg.de/person/hkremer), where I am supervised by Bernhard Schölkopf. I hold a Master's degree in mathematics from the University of Cambridge and a Bachelor's degree in physics from the University of Frankfurt.
+
+During my PhD I have worked in a number of different areas. Currently I am mostly interested in (conditional) moment restriction problems arising in causal inference and more generally robust machine learning. 
+Previously I have worked on epidemiological modelling, computational image analysis and computer-generated holography. Please visit my [research page](/research/) for details. 
+
+You can also find me on [Github](https://github.com/HeinerKremer), [LinkedIn](https://www.linkedin.com/in/heiner-kremer-6b9904165/), [Google Scholar](https://scholar.google.com/citations?user=I_9TrpgAAAAJ&hl=en).
+
+
+# News
+* TBA
