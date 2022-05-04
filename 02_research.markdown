@@ -108,7 +108,7 @@ Amongst several other things, this framework allows for studying the effects of:
 <br/>
 
 <details>
-<summary> <b>Listening to Bluetooth beacons for epidemic risk mitigation </b> <a href="https://www.medrxiv.org/content/10.1101/2021.01.21.21250209v1.abstract">(paper)</a> <a href="https://github.com/covid19-model/simulator/tree/beacon">(code)</a> </summary>
+<summary> <b>Listening to Bluetooth beacons for epidemic risk mitigation </b> <a href="https://www.nature.com/articles/s41598-022-09440-1">(paper)</a> <a href="https://github.com/covid19-model/simulator/tree/beacon">(code)</a> </summary>
 
 <br/>
 
