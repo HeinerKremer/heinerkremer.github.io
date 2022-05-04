@@ -21,4 +21,5 @@ You can also find me on [Github](https://github.com/HeinerKremer), [LinkedIn](ht
 
 
 # News
-* TBA
+* (25/04/2022) Our new preprint [Maximum Mean Discrepancy Distributionally Robust Nonlinear Chance-Constrained Optimization with Finite-Sample Guarantee](https://arxiv.org/abs/2204.11564) is now on arxiv
+* (01/04/2022) Our paper [Listening to bluetooth beacons for epidemic risk mitigation](https://www.nature.com/articles/s41598-022-09440-1) got published at Scientific Reports
