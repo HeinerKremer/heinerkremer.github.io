@@ -7,7 +7,7 @@ layout: home
 
 
 
-<img src="assets/image_website.jpg" width="290" style="float: left; margin-right: 2em;">
+<img src="assets/image_website.jpg" width="300" style="float: left; margin-right: 2em;">
 
 
 Hi I'm Heiner, welcome to my scientific website!
