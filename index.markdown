@@ -7,7 +7,7 @@ layout: home
 
 
 
-<img src="assets/image_website.jpg" width="300" style="float: left; margin-right: 2em;">
+<img src="assets/image_website.jpg" width="330" style="float: left; margin-right: 2em;">
 
 I am a PhD student in Machine Learning and Artificial Intelligence at the Empirical Inference Department of the [Max Planck Institute for Intelligent Systems](https://ei.is.mpg.de/person/hkremer), where I am advised by Bernhard Schölkopf. I hold a Master's degree in mathematics from the University of Cambridge and a Bachelor's degree in physics from the University of Frankfurt.
 
