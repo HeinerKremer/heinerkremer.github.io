@@ -17,6 +17,8 @@ During my PhD I developed training algorithms for robust and causal machine lear
 
 You can find me on [Github](https://github.com/HeinerKremer), [LinkedIn](https://www.linkedin.com/in/heiner-kremer-6b9904165/) and [Google Scholar](https://scholar.google.com/citations?user=I_9TrpgAAAAJ&hl=en).
 
+<br/><br/>
+<br/><br/>
 
 # News
 * (May 2024) Our paper [Geometry-Aware Instrumental Variable Regression]() got accepted at ICML 2024

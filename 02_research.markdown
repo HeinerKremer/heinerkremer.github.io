@@ -27,8 +27,9 @@ MathJax.Hub.Queue(function() {
 Here you can find a collection of my recent works. Check out my [Google scholar](https://scholar.google.com/citations?user=I_9TrpgAAAAJ&hl=en) for a comprehensive list of publications.
 
  <h3> Robust Machine Learning and Causal Inference </h3>
-* [**Geometry-Aware Instrumental Variable Regression**]() <br/>
+* Geometry-Aware Instrumental Variable Regression <br/>
     H. Kremer, B. Schölkopf <br/> 
+    *International Conference on Machine Learning (ICML) 2024*
 * [**Estimation Beyond Data Reweighting: Kernel Method of Moments**](https://arxiv.org/abs/2305.10898) <br/>
     H. Kremer, Y. Nemmour, B. Schölkopf, J. Zhu <br/> 
     *International Conference on Machine Learning (ICML) 2023*
@@ -42,7 +43,7 @@ Here you can find a collection of my recent works. Check out my [Google scholar]
  * [**Compact Holographic Sound Fields Enable Rapid One-step Assembly of Matter in 3D**](https://www.science.org/doi/full/10.1126/sciadv.adf6182)<br/>
     K. Melde, H. Kremer, M. Shi, S. Seneca, C. Frey, I. Platzman, C. Degel, D. Schmitt, B. Schölkopf, P. Fischer <br/>
     *Science Advances (2023)*
-* Non-Blind Glare-Removal for HDR Photography<br/>
+* [**Non-Blind Glare-Removal for HDR Photography**](https://ieeexplore.ieee.org/document/10233804)<br/>
     M. van Bastelaer, H. Kremer, V. Volchkov, B. Schölkopf 
     <br/> *International Conference on Computational Photography (ICCP) 2023*
 
