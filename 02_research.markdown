@@ -27,7 +27,7 @@ MathJax.Hub.Queue(function() {
 Here you can find a collection of my recent works. Check out my [Google scholar](https://scholar.google.com/citations?user=I_9TrpgAAAAJ&hl=en) for a comprehensive list of publications.
 
  <h3> Robust Machine Learning and Causal Inference </h3>
-* Geometry-Aware Instrumental Variable Regression <br/>
+* [**Geometry-Aware Instrumental Variable Regression**]() <br/>
     H. Kremer, B. Schölkopf <br/> 
     *International Conference on Machine Learning (ICML) 2024*
 * [**Estimation Beyond Data Reweighting: Kernel Method of Moments**](https://arxiv.org/abs/2305.10898) <br/>
