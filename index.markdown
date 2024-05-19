@@ -9,16 +9,19 @@ layout: home
 
 <img src="assets/image_website.jpg" width="330" style="float: left; margin-right: 2em;">
 
-I am a PhD student in Machine Learning and Artificial Intelligence at the Empirical Inference Department of the [Max Planck Institute for Intelligent Systems](https://ei.is.mpg.de/person/hkremer), where I am advised by Bernhard Schölkopf. I hold a Master's degree in mathematics from the University of Cambridge and a Bachelor's degree in physics from the University of Frankfurt.
+I am a researcher at Microsoft Research Cambridge working on i) deep generative models for inverse problems and ii) analog-amenable machine learning. I did my PhD in machine learning with [Bernhard Schölkopf](https://scholar.google.com/citations?user=DZ-fHPgAAAAJ) at the [Max Planck Institute for Intelligent Systems](https://ei.is.mpg.de/person/hkremer). I hold a Master's degree in mathematics from the University of Cambridge and a Bachelor's degree in physics from the University of Frankfurt.
 
-Currently my research interest is focussed on distributionally robust optimization and method of moments estimation for causal inference.
-Previously I have worked on epidemiological modelling, computational image analysis and computer-generated holography. 
+During my PhD I developed training algorithms for robust and causal machine learning based on empirical likelihood estimation. I also worked on inverse problems and temporal point processes.
+
 <!-- Check out my [Publications page](/research/) for details.  -->
 
 You can find me on [Github](https://github.com/HeinerKremer), [LinkedIn](https://www.linkedin.com/in/heiner-kremer-6b9904165/) and [Google Scholar](https://scholar.google.com/citations?user=I_9TrpgAAAAJ&hl=en).
 
 
 # News
+* (May 2024) Our paper [Geometry-Aware Instrumental Variable Regression]() got accepted at ICML 2024
+* (March 2024) Moved back to Cambridge to join Microsoft Research as an AI researcher
+* (Feb 2024) Submitted my PhD Thesis on "Empirical Likelihood Estimators for Robust and Causal Learning"
 * (May 2023) Our paper [Estimation Beyond Data Reweighting: Kernel Method of Moments](https://arxiv.org/abs/2305.10898) got accepted at ICML 2023
 * (May 2023) Gave a talk on *Distributionally Robust Machine Learning with Kernel Machines* at SIAM Optimization 23 in Seattle
 * (Feb 2023) Our paper [Compact holographic sound fields enable rapid one-step assembly of matter in 3D](https://www.science.org/doi/abs/10.1126/sciadv.adf6182) got published at Science Advances
