@@ -9,7 +9,7 @@ layout: home
 
 <img src="assets/image_website.jpg" width="330" style="float: left; margin-right: 2em;">
 
-I am a researcher at Microsoft Research Cambridge working on i) deep generative models for inverse problems and ii) analog-amenable machine learning. I did my PhD in machine learning with [Bernhard Schölkopf](https://scholar.google.com/citations?user=DZ-fHPgAAAAJ) at the [Max Planck Institute for Intelligent Systems](https://ei.is.mpg.de/person/hkremer). I hold a Master's degree in mathematics from the University of Cambridge and a Bachelor's degree in physics from the University of Frankfurt.
+I am a researcher at Microsoft Research Cambridge working on deep generative models for inverse problems and analog-amenable machine learning. I did my PhD in machine learning with [Bernhard Schölkopf](https://scholar.google.com/citations?user=DZ-fHPgAAAAJ) at the [Max Planck Institute for Intelligent Systems](https://ei.is.mpg.de/person/hkremer). I hold a Master's degree in mathematics from the University of Cambridge and a Bachelor's degree in physics from the University of Frankfurt.
 
 During my PhD I developed training algorithms for robust and causal machine learning based on empirical likelihood estimation. I also worked on inverse problems and temporal point processes.
 
