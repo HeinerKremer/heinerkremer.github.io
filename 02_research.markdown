@@ -27,13 +27,13 @@ MathJax.Hub.Queue(function() {
 Here you can find a collection of my recent works. Check out my [Google scholar](https://scholar.google.com/citations?user=I_9TrpgAAAAJ&hl=en) for a comprehensive list of publications.
 
  <h3> Robust Machine Learning and Causal Inference </h3>
-* [**Geometry-Aware Instrumental Variable Regression**]() <br/>
+* [**Geometry-Aware Instrumental Variable Regression**](https://arxiv.org/abs/2405.11633v1) <br/>
     H. Kremer, B. Schölkopf <br/> 
     *International Conference on Machine Learning (ICML) 2024*
 * [**Estimation Beyond Data Reweighting: Kernel Method of Moments**](https://arxiv.org/abs/2305.10898) <br/>
     H. Kremer, Y. Nemmour, B. Schölkopf, J. Zhu <br/> 
     *International Conference on Machine Learning (ICML) 2023*
-* [**Functional Generalized Empirical Likelihood Estimation for Conditional Moment Restrictions**](https://proceedings.mlr.press/v162/kremer22a.html) <br/>
+* [**Functional Generalized Empirical Likelihood Estimation for Conditional Moment Restrictions**](https://arxiv.org/abs/2207.04771) <br/>
     H. Kremer, J. Zhu, K. Muandet, B. Schölkopf <br/>
     *International Conference on Machine Learning (ICML) 2022*
 * [**Maximum Mean Discrepancy Distributionally Robust Nonlinear Chance-Constrained Optimization with Finite-Sample Guarantee**](https://ieeexplore.ieee.org/document/9993212) <br/>
