@@ -21,7 +21,7 @@ You can find me on [Github](https://github.com/HeinerKremer), [LinkedIn](https:/
 
 # News
 * (May 2024) Our paper [Geometry-Aware Instrumental Variable Regression](https://arxiv.org/abs/2405.11633v1) got accepted at ICML 2024
-* (March 2024) Moved back to Cambridge to join Microsoft Research as an AI researcher
+* (March 2024) Joined Microsoft Research as an AI researcher
 * (Feb 2024) Submitted my PhD Thesis on "Empirical Likelihood Estimators for Robust and Causal Learning"
 * (May 2023) Our paper [Estimation Beyond Data Reweighting: Kernel Method of Moments](https://arxiv.org/abs/2305.10898) got accepted at ICML 2023
 * (May 2023) Gave a talk on *Distributionally Robust Machine Learning with Kernel Machines* at SIAM Optimization 23 in Seattle
