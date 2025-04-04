@@ -26,7 +26,13 @@ MathJax.Hub.Queue(function() {
 
 Here you can find a collection of my recent works. Check out my [Google scholar](https://scholar.google.com/citations?user=I_9TrpgAAAAJ&hl=en) for a comprehensive list of publications.
 
+<h3> Large Language Models </h3>
+* [**Implicit Language Models are RNNs: Balancing Parallelization and Expressivity**](https://arxiv.org/abs/2502.07827) <br/>
+    M. Schoene, B. Rahmani, H. Kremer, F. Falck, H. Ballani, J.Gladrow <br/>
+    *Under review.*
+
  <h3> Robust Machine Learning and Causal Inference </h3>
+ Find an overview [here]({{ https://heinerkremer.github.io }}/assets/Empirical Likelihood.jpg).
 * [**Geometry-Aware Instrumental Variable Regression**](https://arxiv.org/abs/2405.11633v1) <br/>
     H. Kremer, B. Schölkopf <br/> 
     *International Conference on Machine Learning (ICML) 2024*
