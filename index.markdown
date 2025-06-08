@@ -9,7 +9,7 @@ layout: home
 
 <img src="assets/image_website.jpg" width="330" style="float: left; margin-right: 2em;">
 
-I am a researcher at Microsoft Research Cambridge working on deep generative models for inverse problems and analog-amenable machine learning. I did my PhD in machine learning with [Bernhard Schölkopf](https://scholar.google.com/citations?user=DZ-fHPgAAAAJ) at the [Max Planck Institute for Intelligent Systems](https://ei.is.mpg.de/person/hkremer). Previously, I studied mathematics and physics in Cambridge and Frankfurt.
+I am a machine learning researcher at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/people/t-hkremer/?msockid=1c7319144a8c69541ab70d2e4be3688c) working on novel paradigms for diffusion, flow matching and language modeling. I did my PhD in machine learning with [Bernhard Schölkopf](https://scholar.google.com/citations?user=DZ-fHPgAAAAJ) at the [Max Planck Institute for Intelligent Systems](https://ei.is.mpg.de/person/hkremer). Previously, I studied mathematics and physics in Cambridge and Frankfurt.
 
 During my PhD I developed training algorithms for robust and causal machine learning based on [empirical likelihood estimation]({{ https://heinerkremer.github.io }}/assets/Empirical Likelihood.jpg). I also worked on inverse problems and temporal point processes.
 
@@ -20,6 +20,7 @@ You can find me on [Github](https://github.com/HeinerKremer), [LinkedIn](https:/
 <br/><br/>
 
 # News
+* (June 2025) Our paper [Implicit Language Models are RNNs: Balancing Parallelization and Expressivity](https://arxiv.org/abs/2502.07827) got accepted at ICML 2025 as a **spotlight**
 * (Juli 2024) I'm at LPHYS'24 in Brazil to present our work on *Analog Optical Computing for Machine Learning and Optimization*---the next-gen hardware accelerator developed by our team at MSR Cambridge
 * (May 2024) Our paper [Geometry-Aware Instrumental Variable Regression](https://arxiv.org/abs/2405.11633v1) got accepted at ICML 2024
 * (March 2024) Joined Microsoft Research as a machine learning researcher
