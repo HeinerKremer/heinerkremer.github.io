@@ -29,8 +29,7 @@ Here you can find a collection of my recent works. Check out my [Google scholar]
 <h3> Large Language Models </h3>
 * [**Implicit Language Models are RNNs: Balancing Parallelization and Expressivity**](https://arxiv.org/abs/2502.07827) <br/>
     M. Schoene, B. Rahmani, H. Kremer, F. Falck, H. Ballani, J.Gladrow <br/>
-    **Spotlight** <br/>
-    *International Conference on Machine Learning (ICML) 2022*
+    *International Conference on Machine Learning (ICML) 2022* (**Spotlight**)
 
  <h3> Robust Machine Learning and Causal Inference </h3>
  Find an overview [here]({{ https://heinerkremer.github.io }}/assets/Empirical Likelihood.jpg).
@@ -49,7 +48,7 @@ Here you can find a collection of my recent works. Check out my [Google scholar]
  <h3> Inter-disciplinary Machine Learning </h3>
  * [**The Analog Optical Computer for Machine Learning Inference and Combinatorial Optimization**](https://www.nature.com/articles/s41586-025-09430-z)<br/>
  Analog Optical Computing Team, MSR Cambridge <br/>
- * **Nature** (2025)*
+ ***Nature** (2025)*
  * [**Compact Holographic Sound Fields Enable Rapid One-step Assembly of Matter in 3D**](https://www.science.org/doi/full/10.1126/sciadv.adf6182)<br/>
     K. Melde, H. Kremer, M. Shi, S. Seneca, C. Frey, I. Platzman, C. Degel, D. Schmitt, B. Schölkopf, P. Fischer <br/>
     *Science Advances (2023)*

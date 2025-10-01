@@ -20,7 +20,7 @@ You can find me on [Github](https://github.com/HeinerKremer), [LinkedIn](https:/
 <br/><br/>
 
 # News
-* (September 2025) Our paper [The Analog Optical Computer for Machine Learning Inference and Combinatorial Optimization](https://www.nature.com/articles/s41586-025-09430-z) got published in Nature
+* (September 2025) Our paper [The Analog Optical Computer for Machine Learning Inference and Combinatorial Optimization](https://www.nature.com/articles/s41586-025-09430-z) got published in **Nature**
 * (June 2025) Our paper [Implicit Language Models are RNNs: Balancing Parallelization and Expressivity](https://arxiv.org/abs/2502.07827) got accepted at ICML 2025 as a **spotlight**
 * (Juli 2024) I'm at LPHYS'24 in Brazil to present our work on *Analog Optical Computing for Machine Learning and Optimization*---the next-gen hardware accelerator developed by our team at MSR Cambridge
 * (May 2024) Our paper [Geometry-Aware Instrumental Variable Regression](https://arxiv.org/abs/2405.11633v1) got accepted at ICML 2024
