@@ -29,7 +29,7 @@ Here you can find a collection of my recent works. Check out my [Google scholar]
 <h3> Large Language Models </h3>
 * [**Implicit Language Models are RNNs: Balancing Parallelization and Expressivity**](https://arxiv.org/abs/2502.07827) <br/>
     M. Schoene, B. Rahmani, H. Kremer, F. Falck, H. Ballani, J.Gladrow <br/>
-    *International Conference on Machine Learning (ICML) 2022* (**Spotlight**)
+    *International Conference on Machine Learning (ICML) 2025* (**Spotlight**)
 
  <h3> Robust Machine Learning and Causal Inference </h3>
  Find an overview [here]({{ https://heinerkremer.github.io }}/assets/Empirical Likelihood.jpg).
