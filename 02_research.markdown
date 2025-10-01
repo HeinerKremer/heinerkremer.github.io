@@ -56,7 +56,7 @@ Here you can find a collection of my recent works. Check out my [Google scholar]
     M. van Bastelaer, H. Kremer, V. Volchkov, B. Schölkopf 
     <br/> *International Conference on Computational Photography (ICCP) 2023*
 
- <h3> Epidemiological Modelling with Temporal Point Processes </h3>
+ <h3> Agent-based Modelling with Temporal Point Processes </h3>
  * [**Listening to Bluetooth Beacons for Epidemic Risk Mitigation**](https://www.nature.com/articles/s41598-022-09440-1) <br/>
     G. Barthe, R. De Viti, P. Druschel, D. Garg, M. Gomez-Rodriguez, P. Ingo, H. Kremer, M. Lentz, L. Lorch, A. Mehta, B. Schölkopf (author order alphabetical) <br/>
     *Scientific Reports (2022)*
