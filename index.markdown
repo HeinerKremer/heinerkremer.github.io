@@ -9,9 +9,8 @@ layout: home
 
 <img src="assets/image_website.jpg" width="330" style="float: left; margin-right: 2em;">
 
-I am a machine learning researcher at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/people/t-hkremer/?msockid=1c7319144a8c69541ab70d2e4be3688c) working on novel paradigms for diffusion, flow matching and language modeling. I did my PhD in machine learning with [Bernhard Schölkopf](https://scholar.google.com/citations?user=DZ-fHPgAAAAJ) at the [Max Planck Institute for Intelligent Systems](https://ei.is.mpg.de/person/hkremer). Previously, I studied mathematics and physics in Cambridge and Frankfurt.
-
-During my PhD I developed training algorithms for robust and causal machine learning based on [empirical likelihood estimation]({{ https://heinerkremer.github.io }}/assets/Empirical Likelihood.jpg). I also worked on inverse problems and temporal point processes.
+I am a research scientist at the Ellison Institute of Technology (EIT) working on multi-modal foundation models for embodied AI in the context of autonomous labs. Previously, I was a machine learning researcher at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/people/t-hkremer/?msockid=1c7319144a8c69541ab70d2e4be3688c) working on novel paradigms for diffusion, flow matching and language modeling. I did my PhD in machine learning with [Bernhard Schölkopf](https://scholar.google.com/citations?user=DZ-fHPgAAAAJ) at the [Max Planck Institute for Intelligent Systems](https://ei.is.mpg.de/person/hkremer).
+During my PhD I developed training algorithms for robust and causal machine learning based on empirical likelihood estimation. I also worked on inverse problems and temporal point processes.
 
 <!-- Check out my [Publications page](/research/) for details.  -->
 
@@ -20,6 +19,8 @@ You can find me on [Github](https://github.com/HeinerKremer), [LinkedIn](https:/
 <br/><br/>
 
 # News
+* (March 2026) I joined the Ellison Institute of Technology as the first member of the CoreML team. Excited to work on foundation models for embodied AI
+* (March 2026) We released a preprint on our work on [Analog Diffusion Models](https://assets-eu.researchsquare.com/files/rs-8919479/v1_covered_871f4800-d50e-42b8-b81e-02efe077be49.pdf?c=1773991388)---the result of a 2-year effort with an amazing team on making diffusion models work on novel optical-analog hardware without compromises
 * (September 2025) Our paper [The Analog Optical Computer for Machine Learning Inference and Combinatorial Optimization](https://www.nature.com/articles/s41586-025-09430-z) got published in **Nature**
 * (June 2025) Our paper [Implicit Language Models are RNNs: Balancing Parallelization and Expressivity](https://arxiv.org/abs/2502.07827) got accepted at ICML 2025 as a **spotlight**
 * (Juli 2024) I'm at LPHYS'24 in Brazil to present our work on *Analog Optical Computing for Machine Learning and Optimization*---the next-gen hardware accelerator developed by our team at MSR Cambridge
