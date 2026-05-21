@@ -9,7 +9,9 @@ layout: home
 
 <img src="assets/image_website.jpg" width="330" style="float: left; margin-right: 2em;">
 
-I am a research scientist at the Ellison Institute of Technology (EIT) working on multi-modal foundation models for embodied AI in the context of autonomous labs. Previously, I was a machine learning researcher at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/people/t-hkremer/?msockid=1c7319144a8c69541ab70d2e4be3688c) working on novel paradigms for diffusion, flow matching and language modeling. I did my PhD in machine learning with [Bernhard Schölkopf](https://scholar.google.com/citations?user=DZ-fHPgAAAAJ) at the [Max Planck Institute for Intelligent Systems](https://ei.is.mpg.de/person/hkremer).
+I am a research scientist at the Ellison Institute of Technology (EIT) working on multi-modal foundation models for embodied AI. 
+
+Previously, I was a machine learning researcher at Microsoft Research Cambridge where I worked on novel paradigms for diffusion, flow matching and language modeling. I did my PhD in machine learning with [Bernhard Schölkopf](https://scholar.google.com/citations?user=DZ-fHPgAAAAJ) at the [Max Planck Institute for Intelligent Systems](https://ei.is.mpg.de/person/hkremer).
 During my PhD I developed training algorithms for robust and causal machine learning based on empirical likelihood estimation. I also worked on inverse problems and temporal point processes.
 
 <!-- Check out my [Publications page](/research/) for details.  -->
