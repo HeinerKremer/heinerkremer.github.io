@@ -21,7 +21,7 @@ You can find me on [Github](https://github.com/HeinerKremer), [LinkedIn](https:/
 <br/><br/>
 
 # News
-* (March 2026) I joined the Ellison Institute of Technology as the first member of the CoreML team. Excited to work on foundation models for embodied AI
+* (March 2026) I joined the Ellison Institute of Technology as the first member of the CoreML team
 * (March 2026) We released a preprint on our work on [Analog Diffusion Models](https://assets-eu.researchsquare.com/files/rs-8919479/v1_covered_871f4800-d50e-42b8-b81e-02efe077be49.pdf?c=1773991388)---the result of a 2-year effort with an amazing team on making diffusion models work on novel optical-analog hardware without compromises
 * (September 2025) Our paper [The Analog Optical Computer for Machine Learning Inference and Combinatorial Optimization](https://www.nature.com/articles/s41586-025-09430-z) got published in **Nature**
 * (June 2025) Our paper [Implicit Language Models are RNNs: Balancing Parallelization and Expressivity](https://arxiv.org/abs/2502.07827) got accepted at ICML 2025 as a **spotlight**
